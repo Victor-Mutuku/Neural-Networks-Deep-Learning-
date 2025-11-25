@@ -1,6 +1,6 @@
-# Neural-Networks-Deep-Learning
-
 # MNIST Handwritten Digit Classification
+
+---
 
 ## Objective
 Classify handwritten digits from the MNIST dataset using an Artificial Neural Network (ANN) built with TensorFlow/Keras Sequential API.
